@@ -1,18 +1,3 @@
-# Quartz v4
+I'm [stormy](https://www.stormyark.de/), and in this documentation, I will describe how I have configured my homelab and the various tools I utilize. A homelab is a personal network environment where you can experiment with different technologies, improve your skills, and run various services. Setting up a homelab can be an incredibly rewarding experience, offering a hands-on approach to learning and development.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Whether you're a beginner looking to set up your first homelab or an experienced user seeking new ideas and tools, this documentation aims to provide valuable insights and practical instructions to help you build and optimize your own homelab using docker.
