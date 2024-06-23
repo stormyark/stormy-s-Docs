@@ -3,11 +3,6 @@ title: How to secure your server
 draft: false
 tags:
 ---
----
-title: How to secure your server
-draft: false
-tags: []
----
 # How to secure your server
 
 ## Updates

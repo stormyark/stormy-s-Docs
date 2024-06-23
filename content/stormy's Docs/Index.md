@@ -4,8 +4,7 @@ longform:
   title: stormy's Docs
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - How to secure your server
+  scenes: []
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
