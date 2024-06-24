@@ -2,6 +2,7 @@
 title: Docker-compose
 draft: false
 tags:
+  - docker
 ---
 # Boilderplate
 

@@ -2,6 +2,7 @@
 title: Docker Commands
 draft: false
 tags:
+  - docker
 ---
 ## Docker Commands
 ### Start, stop, or restart a container.
