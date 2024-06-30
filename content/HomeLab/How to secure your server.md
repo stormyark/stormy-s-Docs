@@ -55,19 +55,19 @@ Change ssh port:
 sudo nano /etc/ssh/sshd_config
 ```
 
-> # Port 22 → Port 535 | use anything between 0-1023 (Well Known Ports range)
+> `# Port 22 → Port 535` | use anything between 0-1023 (Well Known Ports range)
 
 Only use IPv4:
 
-> AddressFamily any → AddressFamily inet
+> `AddressFamily any → AddressFamily inet`
 
 Dont let Root login:
 
-> PermitRootLogin yes → PerminRootLogin no
+> `PermitRootLogin yes → PerminRootLogin no`
 
 Disable password login:
 
-> `# PasswordAuthentication` yes → PasswordAuthentication no
+> `# PasswordAuthentication yes → PasswordAuthentication no`
 
 Only apply this when you generated an SSH key!
 
