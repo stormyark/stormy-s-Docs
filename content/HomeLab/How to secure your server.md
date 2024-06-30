@@ -123,12 +123,12 @@ Host {your-server}
     HostName {ip}
     Port 22
     User root
-    IdentityFile ~/.ssh/{your-file}.key
+    IdentityFile ~/.ssh/{file-name}.key
     IdentitiesOnly yes
 EOF
 
-mv server-admin ~/.ssh/{your-file}.key
-chmod 600 ~/.ssh/{your-file}.key
+mv server-admin ~/.ssh/{file-name}.key
+chmod 600 ~/.ssh/{file-name}.key
 ```
 
 ---
@@ -143,7 +143,7 @@ sudo apt install ufw
 Allow ssh port:
 
 ```shell
-sudo ufw allow 535
+sudo ufw allow 22
 ```
 
 Enable ufw:
@@ -157,13 +157,12 @@ sudo ufw enable
 
 <aside>
 💡 Fail2ban is an open-source intrusion prevention software framework designed to protect computer servers from brute-force attacks. It works by monitoring log files and banning IP addresses that show malicious signs, such as multiple failed login attempts, seeking for exploits, etc.
-
 </aside>
 
 Install Fail2ban:
 
 ```shell
-apt install --yes fail2ban
+sudo apt install -y fail2ban
 ```
 
 Check status:
