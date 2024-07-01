@@ -27,3 +27,5 @@ tags:
 - [ ] obsidian remote
 - [ ] sharry
 - [ ] teamspeak
+
+Boilerplates for those containers can be found [here](https://github.com/stormyark/Boilerplates).

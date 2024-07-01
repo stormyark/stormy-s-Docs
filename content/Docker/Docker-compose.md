@@ -3,6 +3,7 @@ title: Docker-compose
 draft: false
 tags:
   - docker
+  - docker-compose
 ---
 # Boilderplate
 

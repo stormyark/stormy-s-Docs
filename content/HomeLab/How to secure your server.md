@@ -176,6 +176,6 @@ fail2ban-client status sshd
 ```
 
 ---
-### Sources
+### Source
 
 [https://docs.lugbz.org/server-setup.html](https://docs.lugbz.org/server-setup.html)
