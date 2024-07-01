@@ -4,6 +4,7 @@ longform:
   title: HomeLab
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Configuration
   ignoredFiles: []
 ---
