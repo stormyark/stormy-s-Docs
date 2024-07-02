@@ -5,6 +5,6 @@ I'm [stormy](https://www.stormyark.de/), and in this documentation, I will descr
 
 Whether you're a beginner looking to set up your first homelab or an experienced user seeking new ideas and tools, this documentation aims to provide valuable insights and practical instructions to help you build and optimize your own homelab using docker.
 
-Head over to [[content/HomeLab/]] to see how I configured my server.
+Head over to [[HomeLab/]] to see how I configured my server.
 
-If you need help using docker see [[content/Docker/]].
+If you need help using docker see [[Docker/]].
