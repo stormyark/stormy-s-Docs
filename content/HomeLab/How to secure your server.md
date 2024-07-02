@@ -3,9 +3,8 @@ title: How to secure your server
 draft: false
 tags:
   - server
+author: stormy
 ---
-# How to secure your server
-
 ### Updates
 
 Updating packages and dependencies:
