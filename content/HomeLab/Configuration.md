@@ -2,9 +2,7 @@
 title: Configuration
 draft: false
 tags:
-  - docker
   - container
-  - debian
 ---
 ## Operating System
 - [debian 12.5](https://www.debian.org/News/2024/20240210)
