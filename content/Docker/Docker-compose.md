@@ -4,7 +4,7 @@ draft: false
 tags:
   - docker-compose
 ---
-# Boilderplate
+# Boilerplate
 
 `Docker-compose.yml`:
 
