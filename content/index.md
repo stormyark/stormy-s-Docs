@@ -1,5 +1,6 @@
 ---
 title: Welcome to my Documentation
+author: stormy
 ---
 I'm [stormy](https://www.stormyark.de/), and in this documentation, I will describe how I have configured my homelab and the various tools I utilize. A homelab is a personal network environment where you can experiment with different technologies, improve your skills, and run various services. Setting up a homelab can be an incredibly rewarding experience, offering a hands-on approach to learning and development.
 
